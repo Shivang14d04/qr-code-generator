@@ -6,7 +6,6 @@ A simple web app to generate QR codes from user input using JavaScript.
 
 - Enter any text or URL to generate a QR code instantly.
 - Download the QR code image.
-- Responsive design.
 
 ## How to Use
 Clone the repository:
@@ -21,13 +20,9 @@ Clone the repository:
 5. The QR code will be displayed.
 6. Optionally, download the QR code.
 
-## Live Demo
 
-[View Live](https://shivang14d04.github.io/qr-code-generator/)
 
 ## Built With
 
-- HTML
-- CSS
 - JavaScript
 - QRCode.js
